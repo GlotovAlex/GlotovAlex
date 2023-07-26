@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm data analyst
 
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning statistics and probability theory
