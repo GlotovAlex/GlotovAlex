@@ -4,6 +4,7 @@
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning statistics and probability theory
 - 🎓 I’m graduated from Yandex.Practicum
+- 🖋 My hobby is lettering and calligraphy
 
 ### Contact me:
 [<img alt="e-mail" 
