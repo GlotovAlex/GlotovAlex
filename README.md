@@ -6,6 +6,15 @@
 - 🎓 I’m graduated from Yandex.Practicum
 - 🖋 My hobby is lettering and calligraphy
 
+**Data analysis:**\
+`Python` `Pandas` `Matplotlib` `Seaborn` `Plotly` `NumPy` `SciPy` `Math` `Statsmodels` `SQLAlchemy`
+
+**BI system:**\
+`Tableau`
+
+**Databases:**\
+`PostgreSQL` `MySQL` `SQLite`
+
 ### Contact me:
 [<img alt="e-mail" 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
