@@ -2,6 +2,7 @@
 ### I'm data analyst
 
 - 🔭 I’m currently looking for a job
+- 👾 I used to work at Reshape Analytics for 1.5 years
 - 🌱 I’m currently learning statistics and probability theory
 - 🎓 I’m graduated from Yandex.Practicum
 - 🖋 My hobby is lettering and calligraphy
