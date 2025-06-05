@@ -9,11 +9,14 @@
 **Data analysis:**\
 `Python` `Pandas` `Matplotlib` `Seaborn` `Plotly` `NumPy` `SciPy` `Math` `Statsmodels` `SQLAlchemy`
 
+**ETL**\
+`Apache Airflow` `Loginom`
+
 **BI system:**\
-`Tableau`
+`Tableau` `PowerBI` `Planiqum` `Apqache Superset`
 
 **Databases:**\
-`PostgreSQL` `MySQL` `SQLite`
+`PostgreSQL` `MySQL` `SQLite` `Greenplum`
 
 ### Contact me:
 [<img alt="e-mail" 
